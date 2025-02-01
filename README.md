@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 🎯 **Software Developer | Master of ITM at Illinois Tech**  
-🔍 Actively **seeking internship & full-time opportunities** in **Software Development, Cloud, or Cybersecurity**  
-💡 Passionate about **Full Stack Development, Cloud Computing, and Cybersecurity**  
+🔍 Actively **seeking internship & full-time opportunities** in **Software Development, Full Stack Development**  
+💡 Passionate about **Full Stack Development, Java Development**  
 🌎 Currently based in **Chicago, USA**  
 📬 Reach me at **[aishshevkar@gmail.com](mailto:aishshevkar@gmail.com)**
 
@@ -36,21 +36,12 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[E-Commerce Website](https://github.com/aishshevkar/ecommerce)** - Built with React.js, Tailwind CSS, and MongoDB.  
-🔹 **[Hospital Management System](https://github.com/aishshevkar/hms)** - Java-based system for efficient hospital operations.  
-🔹 **[Restaurant Discovery Platform](https://github.com/aishshevkar/restaurant-finder)** - Java, JDBC, and MySQL-based recommendation system.
+🔹 **[E-Commerce Website](https://github.com/ashevkar/Ecommerce-website)** - Built with React.js, Tailwind CSS, and MongoDB.  
+🔹 **[Hospital Management System](https://github.com/ashevkar/HospitalManagement)** - Java-based system for efficient hospital operations.  
+🔹 **[Restaurant Discovery Platform](https://github.com/ashevkar/Restaurant-Discovery)** - Java, JDBC, and MySQL-based recommendation system.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishshevkar&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishshevkar&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
