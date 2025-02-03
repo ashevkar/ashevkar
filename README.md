@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Aishwarya%20Shevkar%20%F0%9F%91%8B&fontSize=35&fontAlignY=40&desc=Software%20Developer%20|%20MS%20ITM%20at%20IIT%20Chicago&descSize=20&descAlignY=55)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRwNGUzdnZjcmpzZzdraWhvMGRkbDU4ZHJwbzFwZnlhemJ0YWxkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500">
+  
 </p>
 
 ## 🚀 About Me
@@ -41,7 +42,7 @@
 🔹 **[Restaurant Discovery Platform](https://github.com/ashevkar/Restaurant-Discovery)** - Java, JDBC, and MySQL-based recommendation system.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzUyenFpaGp1YnFmYmhtM2FudDIyMnZ2bXZrcGFsNjRnY255NmN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </p>
 
 ---
