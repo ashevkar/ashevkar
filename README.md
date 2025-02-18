@@ -50,8 +50,13 @@
 ## 🌟 Connect With Me
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/aishwarya-shevkar/"><img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aishwarya-shevkar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1P98jd7h9oYTYlWaViJTMRbL0peYdHWiF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+
+
+  
+
 </p>
 
 ---
