@@ -13,7 +13,7 @@
 🌎 Currently based in **Chicago, USA**  
 📬 Reach me at **[aishshevkar@gmail.com](mailto:aishshevkar@gmail.com)**
 
----
+
 
 ## 🏆 My Journey
 
@@ -25,7 +25,7 @@
 🛠 **Notable Work:** Built **E-Commerce Website**, **Hospital Management System**, and **Restaurant Discovery Platform**  
 🌟 **Future Goals:** To work in **cutting-edge tech**, contribute to **cybersecurity innovations**, and build **scalable applications**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +33,22 @@
   <img src="https://skillicons.dev/icons?i=java,react,html,css,nodejs,javascript,typescript,express,nodejs,mongodb,mysql,aws,azure,docker" />
 </p>
 
----
+
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashevkar&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashevkar&layout=compact&theme=radical" height="180" />
+</p>
+
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashevkar&theme=onedark&layout=compact&theme=radical" height="180" />
+</p>
+
+
 
 ## 🚀 Featured Projects
 
@@ -45,26 +60,21 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzUyenFpaGp1YnFmYmhtM2FudDIyMnZ2bXZrcGFsNjRnY255NmN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </p>
 
----
+
 
 ## 🌟 Connect With Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/aishwarya-shevkar/"><img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aishwarya-shevkar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1P98jd7h9oYTYlWaViJTMRbL0peYdHWiF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-
-
-  
-
 </p>
 
----
+
 
 ## 🎉 Fun Quote
 
 > "The best way to predict the future is to invent it." — *Alan Kay*
 
----
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
