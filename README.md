@@ -52,9 +52,9 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[E-Commerce Website](https://github.com/ashevkar/Ecommerce-website)** - Built with React.js, Tailwind CSS, and MongoDB.  
-🔹 **[Hospital Management System](https://github.com/ashevkar/HospitalManagement)** - Java-based system for efficient hospital operations.  
-🔹 **[Restaurant Discovery Platform](https://github.com/ashevkar/Restaurant-Discovery)** - Java, JDBC, and MySQL-based recommendation system.
+🔹 **[TrendHive: AI-Enhanced Retail Experience](https://github.com/ashevkar/Ecommerce-website)** - Built with React.js, Tailwind CSS, and MongoDB.  
+🔹 **[ClinicCore: Innovative Role-Driven Healthcare Platfor](https://github.com/ashevkar/HospitalManagement)** - Java-based system for efficient hospital operations.  
+🔹 **[FlavorFind: Dynamic Dining Navigator](https://github.com/ashevkar/Restaurant-Discovery)** - Java, JDBC, and MySQL-based recommendation system.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzUyenFpaGp1YnFmYmhtM2FudDIyMnZ2bXZrcGFsNjRnY255NmN4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
