@@ -5,10 +5,10 @@ CS Grad at Illinois Tech, More of me **[here](https://ashevkar.github.io/portfol
 ```javascript
 const about = {
   code: ["Java", "C", "HTML", "CSS", "JavaScript","TypeScript" "Python"],
-  frameworks: ["React.js", "Vue.js", "Android", "JavaFX", "Spring Boot"],
+  frameworks: ["React.js", "Next.js", "JavaFX", "Spring Boot"],
   infrastructure: ["AWS", "Azure", "GCP"],
-  architecture: ["microservices", "REST APIs", "system design"],
-  interests: ["frontend development", "full-stack development", "AI-driven solutions"]
+  architecture: ["Microservices", "REST APIs", "System Design"],
+  interests: ["Frontend development", "Full-stack development", "AI-driven solutions"]
 }
 ```
 ## 🌟 Connect With Me
